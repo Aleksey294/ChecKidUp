@@ -1,0 +1,11 @@
+docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+docker exec -it ollama ollama run llama3:8b
+pip install openai
+pip install opencv-python
+pip install pytesseract
+pip install numpy
+pip install sklearn
+pip install webcolors
+pip install deep_translator
+pip install PIL
+pip install streamlit
