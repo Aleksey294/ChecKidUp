@@ -1,4 +1,4 @@
-# ChecKidUp - Система оценки оценки маркетинга и качества товара
+# ChecKidUp - Система оценки маркетинга и качества товара
 #### `NOSTYLIST | LLM` `ML` `Tessract` `OpenCV` `Llama 3.1` `Deep Learning`
 ***
 ## Описание
